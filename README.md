@@ -2,7 +2,7 @@
 
 A simple Python application that uses the Bottle framework to serve a JSON encoded client IP address of a user who makes a GET request to /.
 
-Used as an example application for a tutorial on Wercker I am writing.
+Used as an example application for a tutorial on Wercker.
 
 ```
 usage: get_ip.py [-h] hostname port
